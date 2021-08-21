@@ -1,0 +1,102 @@
+.grid-container{display: grid;
+    grid-template-columns: auto auto ;
+    grid-gap: 10px;
+    position: relative;}
+.second{word-spacing: 30px;
+font-size: 20px;}
+.grid-containerr{display: grid;
+    grid-template-columns: auto auto ;
+  position: relative}
+.mmain{background-color: ;
+}
+.grid-item-one img{padding-top: 30px;
+  padding-left: 18px;
+}
+.grid-item-one{padding-left: 30px;}
+.grid-item-two a{color:grey;
+text-decoration: none;
+overflow: hidden;
+}
+.grid-item-two a:hover{text-decoration: underline 4px rgb(113, 113, 204);}
+.grid-item-two{word-spacing: 30px;}
+.first{font-size: 40px;
+       font-weight: bold;}
+.firstt{font-size: 60px;
+        font-weight: bolder;
+    color: white;}
+.inline button{padding: 30px;
+font-size: 20px;
+background-color: rgb(12, 28, 41);
+color: white;
+border-collapse: collapse;
+}
+.small span{text-decoration: line-through;
+    font-size: 20px;
+    font-weight: medium;}
+.bold{font-size: 20px;
+  font-weight:bold;}
+.parent{padding-left: 100px;
+background-color: steelblue;}
+.grid-item-four img{max-width: 100%;
+}
+.main{font-size: 20px;}
+.last p{float: right;}
+.last{background-color: black;
+color: white;
+padding:30px;}
+.copy{text-align: center;}
+.agree{color: white;}
+.topnav {
+    overflow: hidden;
+    background-color: white;
+    display: inline-flex;
+    position:absolute;
+  }
+  
+  .topnav a {
+    float: left;
+    color:rgb(99, 98, 98);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    ;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    
+    color: black
+  }
+  .last{text-align: center;}
+  .arrow {
+    border: solid grey;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+    position: relative;
+    margin-right: 1px;
+    
+  }
+  .down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+  }
+ .inline{display:inline-flex;}
+ .free{text-decoration: underline;}
+ ul{font-size: 20px;
+  line-height: 1.6;
+color: rgb(37, 36, 36);}
+.stairs{
+background-image: url(./staircase.jpg);
+background-repeat: no-repeat;opacity: 0.5;
+position: absolute;
+    top: 168px;
+    left: 500px;}
+.horse img{opacity: 0.5;}
+.last a:hover{color:grey;}
+.navbar a{margin-right: 20px;}
